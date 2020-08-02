@@ -17,7 +17,7 @@ elif [[ $number -lt $fileno ]]
 then 
 echo "Too low guessing"
 else
-echo "Congratulations !!! Your guess is Right"
+echo "Congratulations !!! Hou have guessed correct number"
 exit 0
 fi
 guess
